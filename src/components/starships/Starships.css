@@ -1,0 +1,13 @@
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card{
+    background-color: rgb(54,79,79);
+    color: white;
+    padding: 20px;
+    margin: 20px;
+}
+a{
+    color: white;
+}
